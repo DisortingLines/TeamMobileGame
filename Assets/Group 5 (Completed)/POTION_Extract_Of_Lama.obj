@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib POTION_Extract_Of_Lama.mtl
+g default
+v -0.050113 0.698882 0.115551
+v -0.050114 0.012473 0.115551
+v -0.050113 0.698882 -0.175116
+v -0.050114 0.012473 -0.175116
+vt 0.516478 0.272975
+vt 0.516475 0.006789
+vt 0.646936 0.006895
+vt 0.646939 0.273081
+vn 1.000000 -0.000002 0.000000
+vn 1.000000 -0.000002 0.000000
+vn 1.000000 -0.000002 0.000000
+vn 1.000000 -0.000002 0.000000
+s off
+g ExtractOfLlama
+usemtl lambert2SG
+f 1/1/1 2/2/2 4/3/3 3/4/4

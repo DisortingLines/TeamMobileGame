@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib POTION_Feather_Fall.mtl
+g default
+v -0.050113 0.722868 0.176702
+v -0.050114 0.010959 0.176702
+v -0.050113 0.722868 -0.229991
+v -0.050114 0.010959 -0.229991
+vt 0.648002 0.272975
+vt 0.647999 0.006789
+vt 0.811708 0.006895
+vt 0.811712 0.273081
+vn 1.000000 -0.000002 0.000000
+vn 1.000000 -0.000002 0.000000
+vn 1.000000 -0.000002 0.000000
+vn 1.000000 -0.000002 0.000000
+s off
+g FeatherfallPotion
+usemtl lambert2SG
+f 1/1/1 2/2/2 4/3/3 3/4/4
